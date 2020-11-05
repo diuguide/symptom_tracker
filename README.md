@@ -6,7 +6,9 @@
 
 An [express-sequelize-passport app](https://symptomtracker2.herokuapp.com/) that allows the user to track certain symptoms for trending.
 
-[![screenshot](./public/images/home.png)](https://symptomtracker2.herokuapp.com/)
+<a href="https://symptomtracker2.herokuapp.com/">
+<img src="./public/images/home.png" width="350">
+</a>
 
 ## Table of Contents
 
